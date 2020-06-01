@@ -1,4 +1,4 @@
-# Easy-Slider.
+# Form Validation with ES6.
 
 > This is  project consist on implement a form validation using ES6, HTML & CSS.
 
